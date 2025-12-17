@@ -1,0 +1,17 @@
+# === Specific Source Files to Ignore ===
+Main.cpp
+InputOutput.cpp
+InputOutput.hpp
+MinCost.cpp
+MinCost.hpp
+
+# === Data Files ===
+input.txt
+output.txt
+
+# === Also recommended for C++ projects ===
+*.exe
+*.out
+*.o
+build/
+.vscode/
